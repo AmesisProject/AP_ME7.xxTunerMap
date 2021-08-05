@@ -30,4 +30,7 @@ Je vais tachez de faire évoluer le logiciel, c'est pour cela que j'ai choisis G
 
 Merci de me fair par de vos remarque et erreur de ma par dans l'onjet "Issue" prevue à cet effet dans GitHub.
 
-<iframe src="https://www.youtube.com/watch?v=G04ME9IdV2k&t=96s" width="100%" frameborder="0" allowfullscreen></iframe> 
+Voici ce que j'ai compris déjà
+https://www.youtube.com/watch?v=G04ME9IdV2k&t=96s
+
+
