@@ -1,3 +1,6 @@
+LE LOGICIEL EST UN FICHIER GOOGLE SHEET ( C'EST A DIRE UN TABLEUR COMME DANS EXCEL) POUR LEQUEL VOUS DEVEZ ME DEMANDER L'AUTORISATION D'OUVERTURE. 
+En général je répond vite, auquel cas contactez moi sur Instagram, FaceBook, Ou Discord.
+
 #VE AP_ME7.xxTunerMap
 
 Sofrware to tuning ME7.xx Family
@@ -8,7 +11,7 @@ https://www.youtube.com/watch?v=G04ME9IdV2k&t=96s
 
 AP_ME7.xxTunerMap is software I am creating to modify engine maps for the Bosch ME7 family.
 I am working on an Audi A3 3.2 VR6 ME7.1.1 identical to GolfIV R32 and Golf V R32.
-After reading through the WIKI SA available here https://fr.wikipedia.org/wiki/Audi_S4 which is an ME7 calculator, I understood several things.
+After reading through the WIKI S4 available here https://fr.wikipedia.org/wiki/Audi_S4 which is an ME7 calculator, I understood several things.
 After reading a complete file on the remaping of an ME7.5 the famous 1.8T 20V from S3 GolfIV GTI is audi TT.
 I understood that the general algorithm of the ME7.xx family followed more or less the same process.
 The big difference is mainly the wideband lambda sensors that we have on the A3 3.2 VR6 which adjusts the Lambda Ratio very cleanly.
@@ -50,7 +53,7 @@ https://www.youtube.com/watch?v=G04ME9IdV2k&t=96s
 
 AP_ME7.xxTunerMap est un logiciel que je suis en train de créer pour modifier les cartographie moteur pour la famille des ME7 Bosch.
 Je travaille sur un ME7.1.1 d'audi A3 3.2 VR6 identique GolfIV R32 et Golf V R32.
-Après une lecture en travers du WIKI SA disponible ici https://fr.wikipedia.org/wiki/Audi_S4 qui est un calculateur ME7, j'ai compris plusieur choses.
+Après une lecture en travers du WIKI S4 disponible ici https://fr.wikipedia.org/wiki/Audi_S4 qui est un calculateur ME7, j'ai compris plusieur choses.
 Après la lecture d'un fichier complet sur le remaping d'un ME7.5 le fameux 1.8T 20V de S3 GolfIV GTI est audi TT. 
 J'ai compris que le l'algorithe générale de la famile des ME7.xx suivait sensiblement le même deroulement. 
 La grande difference sont princepalement les sondes lambda à large bande que nous avont sur l'A3 3.2 VR6 qui nous ajuste les Ratio lambda très proprement.
